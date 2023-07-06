@@ -1,0 +1,15 @@
+c:\users\student\documents\visual studio 2015\Projects\Geometry\bin\Debug\Geometry.exe.config
+c:\users\student\documents\visual studio 2015\Projects\Geometry\bin\Debug\Geometry.exe
+c:\users\student\documents\visual studio 2015\Projects\Geometry\bin\Debug\Geometry.pdb
+c:\users\student\documents\visual studio 2015\Projects\Geometry\obj\Debug\Geometry.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\Geometry\obj\Debug\Geometry.exe
+c:\users\student\documents\visual studio 2015\Projects\Geometry\obj\Debug\Geometry.pdb
+C:\Users\Administrator\Desktop\Geometry\bin\Debug\Geometry.exe.config
+C:\Users\Administrator\Desktop\Geometry\obj\Debug\Geometry.exe
+C:\Users\Administrator\Desktop\Geometry\obj\Debug\Geometry.pdb
+C:\Users\Administrator\Desktop\Geometry\bin\Debug\Geometry.exe
+C:\Users\Administrator\Desktop\Geometry\bin\Debug\Geometry.pdb
+C:\Users\Administrator\Desktop\Geometry\obj\Debug\Geometry.csprojResolveAssemblyReference.cache
+E:\Рабочий стол\Обучение\Labs\mod12\Geometry\bin\Debug\Geometry.exe.config
+E:\Рабочий стол\Обучение\Labs\mod12\Geometry\obj\Debug\Geometry.exe
+E:\Рабочий стол\Обучение\Labs\mod12\Geometry\obj\Debug\Geometry.pdb

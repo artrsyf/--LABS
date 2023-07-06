@@ -1,0 +1,15 @@
+C:\Users\RFadeev\source\repos\mod6\mod6\bin\Debug\net6.0\mod6.exe
+C:\Users\RFadeev\source\repos\mod6\mod6\bin\Debug\net6.0\mod6.deps.json
+C:\Users\RFadeev\source\repos\mod6\mod6\bin\Debug\net6.0\mod6.runtimeconfig.json
+C:\Users\RFadeev\source\repos\mod6\mod6\bin\Debug\net6.0\mod6.dll
+C:\Users\RFadeev\source\repos\mod6\mod6\bin\Debug\net6.0\mod6.pdb
+C:\Users\RFadeev\source\repos\mod6\mod6\obj\Debug\net6.0\mod6.csproj.AssemblyReference.cache
+C:\Users\RFadeev\source\repos\mod6\mod6\obj\Debug\net6.0\mod6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RFadeev\source\repos\mod6\mod6\obj\Debug\net6.0\mod6.AssemblyInfoInputs.cache
+C:\Users\RFadeev\source\repos\mod6\mod6\obj\Debug\net6.0\mod6.AssemblyInfo.cs
+C:\Users\RFadeev\source\repos\mod6\mod6\obj\Debug\net6.0\mod6.csproj.CoreCompileInputs.cache
+C:\Users\RFadeev\source\repos\mod6\mod6\obj\Debug\net6.0\mod6.dll
+C:\Users\RFadeev\source\repos\mod6\mod6\obj\Debug\net6.0\refint\mod6.dll
+C:\Users\RFadeev\source\repos\mod6\mod6\obj\Debug\net6.0\mod6.pdb
+C:\Users\RFadeev\source\repos\mod6\mod6\obj\Debug\net6.0\mod6.genruntimeconfig.cache
+C:\Users\RFadeev\source\repos\mod6\mod6\obj\Debug\net6.0\ref\mod6.dll

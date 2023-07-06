@@ -1,0 +1,15 @@
+C:\Users\RFadeev\source\repos\mod3_fact\mod3_fact\bin\Debug\net6.0\mod3_fact.exe
+C:\Users\RFadeev\source\repos\mod3_fact\mod3_fact\bin\Debug\net6.0\mod3_fact.deps.json
+C:\Users\RFadeev\source\repos\mod3_fact\mod3_fact\bin\Debug\net6.0\mod3_fact.runtimeconfig.json
+C:\Users\RFadeev\source\repos\mod3_fact\mod3_fact\bin\Debug\net6.0\mod3_fact.dll
+C:\Users\RFadeev\source\repos\mod3_fact\mod3_fact\bin\Debug\net6.0\mod3_fact.pdb
+C:\Users\RFadeev\source\repos\mod3_fact\mod3_fact\obj\Debug\net6.0\mod3_fact.csproj.AssemblyReference.cache
+C:\Users\RFadeev\source\repos\mod3_fact\mod3_fact\obj\Debug\net6.0\mod3_fact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RFadeev\source\repos\mod3_fact\mod3_fact\obj\Debug\net6.0\mod3_fact.AssemblyInfoInputs.cache
+C:\Users\RFadeev\source\repos\mod3_fact\mod3_fact\obj\Debug\net6.0\mod3_fact.AssemblyInfo.cs
+C:\Users\RFadeev\source\repos\mod3_fact\mod3_fact\obj\Debug\net6.0\mod3_fact.csproj.CoreCompileInputs.cache
+C:\Users\RFadeev\source\repos\mod3_fact\mod3_fact\obj\Debug\net6.0\mod3_fact.dll
+C:\Users\RFadeev\source\repos\mod3_fact\mod3_fact\obj\Debug\net6.0\refint\mod3_fact.dll
+C:\Users\RFadeev\source\repos\mod3_fact\mod3_fact\obj\Debug\net6.0\mod3_fact.pdb
+C:\Users\RFadeev\source\repos\mod3_fact\mod3_fact\obj\Debug\net6.0\mod3_fact.genruntimeconfig.cache
+C:\Users\RFadeev\source\repos\mod3_fact\mod3_fact\obj\Debug\net6.0\ref\mod3_fact.dll

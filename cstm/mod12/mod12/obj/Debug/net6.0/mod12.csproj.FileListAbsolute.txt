@@ -1,0 +1,15 @@
+C:\Users\RFadeev\source\repos\mod12\mod12\bin\Debug\net6.0\mod12.exe
+C:\Users\RFadeev\source\repos\mod12\mod12\bin\Debug\net6.0\mod12.deps.json
+C:\Users\RFadeev\source\repos\mod12\mod12\bin\Debug\net6.0\mod12.runtimeconfig.json
+C:\Users\RFadeev\source\repos\mod12\mod12\bin\Debug\net6.0\mod12.dll
+C:\Users\RFadeev\source\repos\mod12\mod12\bin\Debug\net6.0\mod12.pdb
+C:\Users\RFadeev\source\repos\mod12\mod12\obj\Debug\net6.0\mod12.csproj.AssemblyReference.cache
+C:\Users\RFadeev\source\repos\mod12\mod12\obj\Debug\net6.0\mod12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RFadeev\source\repos\mod12\mod12\obj\Debug\net6.0\mod12.AssemblyInfoInputs.cache
+C:\Users\RFadeev\source\repos\mod12\mod12\obj\Debug\net6.0\mod12.AssemblyInfo.cs
+C:\Users\RFadeev\source\repos\mod12\mod12\obj\Debug\net6.0\mod12.csproj.CoreCompileInputs.cache
+C:\Users\RFadeev\source\repos\mod12\mod12\obj\Debug\net6.0\mod12.dll
+C:\Users\RFadeev\source\repos\mod12\mod12\obj\Debug\net6.0\refint\mod12.dll
+C:\Users\RFadeev\source\repos\mod12\mod12\obj\Debug\net6.0\mod12.pdb
+C:\Users\RFadeev\source\repos\mod12\mod12\obj\Debug\net6.0\mod12.genruntimeconfig.cache
+C:\Users\RFadeev\source\repos\mod12\mod12\obj\Debug\net6.0\ref\mod12.dll

@@ -1,0 +1,28 @@
+C:\Users\Administrator\Desktop\Lab13\bin\Debug\Lab13.exe.config
+C:\Users\Administrator\Desktop\Lab13\bin\Debug\Lab13.exe
+C:\Users\Administrator\Desktop\Lab13\bin\Debug\Lab13.pdb
+C:\Users\Administrator\Desktop\Lab13\obj\Debug\Lab13.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Lab13\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\Lab13\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\Lab13\obj\Debug\Lab13_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Lab13\obj\Debug\Lab13_MarkupCompile.lref
+C:\Users\Administrator\Desktop\Lab13\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\Lab13\obj\Debug\Lab13.g.resources
+C:\Users\Administrator\Desktop\Lab13\obj\Debug\Lab13.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Lab13\obj\Debug\Lab13.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Lab13\obj\Debug\Lab13.exe
+C:\Users\Administrator\Desktop\Lab13\obj\Debug\Lab13.pdb
+C:\Users\Administrator\Desktop\Lab WPF\bin\Debug\Lab13.exe.config
+C:\Users\Administrator\Desktop\Lab WPF\obj\Debug\Lab13.exe
+C:\Users\Administrator\Desktop\Lab WPF\obj\Debug\Lab13.pdb
+C:\Users\Administrator\Desktop\Lab WPF\bin\Debug\Lab13.exe
+C:\Users\Administrator\Desktop\Lab WPF\bin\Debug\Lab13.pdb
+C:\Users\Administrator\Desktop\Lab WPF\obj\Debug\Lab13.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Lab WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\Lab WPF\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\Lab WPF\obj\Debug\Lab13_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Lab WPF\obj\Debug\Lab13_MarkupCompile.lref
+C:\Users\Administrator\Desktop\Lab WPF\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\Lab WPF\obj\Debug\Lab13.g.resources
+C:\Users\Administrator\Desktop\Lab WPF\obj\Debug\Lab13.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Lab WPF\obj\Debug\Lab13.csproj.GenerateResource.Cache

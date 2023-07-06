@@ -1,0 +1,27 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Lab13\bin\Debug\Lab13.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Lab13\bin\Debug\Lab13.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Lab13\bin\Debug\Lab13.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Lab13\obj\Debug\Lab13.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Lab13\obj\Debug\Lab13.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Lab13\obj\Debug\Lab13.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Lab13\obj\Debug\Lab13.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Lab13\obj\Debug\Lab13.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Lab13\obj\Debug\Lab13.pdb
+C:\Users\Administrator\Desktop\Lab13\bin\Debug\Lab13.exe.config
+C:\Users\Administrator\Desktop\Lab13\obj\Debug\Lab13.exe
+C:\Users\Administrator\Desktop\Lab13\obj\Debug\Lab13.pdb
+C:\Users\Administrator\Desktop\Lab13\bin\Debug\Lab13.exe
+C:\Users\Administrator\Desktop\Lab13\bin\Debug\Lab13.pdb
+C:\Users\Administrator\Desktop\Lab13\obj\Debug\Lab13.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Lab13\obj\Debug\Lab13.Form1.resources
+C:\Users\Administrator\Desktop\Lab13\obj\Debug\Lab13.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Lab13\obj\Debug\Lab13.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Lab14\bin\Debug\Lab13.exe.config
+C:\Users\Administrator\Desktop\Lab14\obj\Debug\Lab13.exe
+C:\Users\Administrator\Desktop\Lab14\obj\Debug\Lab13.pdb
+C:\Users\Administrator\Desktop\Lab14\bin\Debug\Lab13.exe
+C:\Users\Administrator\Desktop\Lab14\bin\Debug\Lab13.pdb
+C:\Users\Administrator\Desktop\Lab14\obj\Debug\Lab13.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Lab14\obj\Debug\Lab13.Form1.resources
+C:\Users\Administrator\Desktop\Lab14\obj\Debug\Lab13.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Lab14\obj\Debug\Lab13.csproj.GenerateResource.Cache
