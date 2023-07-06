@@ -1,0 +1,15 @@
+C:\Users\RFadeev\source\repos\core-async\core-async\bin\Debug\net6.0\core-async.exe
+C:\Users\RFadeev\source\repos\core-async\core-async\bin\Debug\net6.0\core-async.deps.json
+C:\Users\RFadeev\source\repos\core-async\core-async\bin\Debug\net6.0\core-async.runtimeconfig.json
+C:\Users\RFadeev\source\repos\core-async\core-async\bin\Debug\net6.0\core-async.dll
+C:\Users\RFadeev\source\repos\core-async\core-async\bin\Debug\net6.0\core-async.pdb
+C:\Users\RFadeev\source\repos\core-async\core-async\obj\Debug\net6.0\core-async.csproj.AssemblyReference.cache
+C:\Users\RFadeev\source\repos\core-async\core-async\obj\Debug\net6.0\core-async.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RFadeev\source\repos\core-async\core-async\obj\Debug\net6.0\core-async.AssemblyInfoInputs.cache
+C:\Users\RFadeev\source\repos\core-async\core-async\obj\Debug\net6.0\core-async.AssemblyInfo.cs
+C:\Users\RFadeev\source\repos\core-async\core-async\obj\Debug\net6.0\core-async.csproj.CoreCompileInputs.cache
+C:\Users\RFadeev\source\repos\core-async\core-async\obj\Debug\net6.0\core-async.dll
+C:\Users\RFadeev\source\repos\core-async\core-async\obj\Debug\net6.0\refint\core-async.dll
+C:\Users\RFadeev\source\repos\core-async\core-async\obj\Debug\net6.0\core-async.pdb
+C:\Users\RFadeev\source\repos\core-async\core-async\obj\Debug\net6.0\core-async.genruntimeconfig.cache
+C:\Users\RFadeev\source\repos\core-async\core-async\obj\Debug\net6.0\ref\core-async.dll

@@ -1,0 +1,41 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Lab13\bin\Debug\Lab13.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Lab13\bin\Debug\Lab13.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Lab13\bin\Debug\Lab13.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Lab13\obj\Debug\Lab13.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Lab13\obj\Debug\Lab13.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Lab13\obj\Debug\Lab13.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Lab13\obj\Debug\Lab13.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Lab13\obj\Debug\Lab13.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Lab13\obj\Debug\Lab13.pdb
+C:\Users\Administrator\Desktop\Lab13\bin\Debug\Lab13.exe.config
+C:\Users\Administrator\Desktop\Lab13\obj\Debug\Lab13.exe
+C:\Users\Administrator\Desktop\Lab13\obj\Debug\Lab13.pdb
+C:\Users\Administrator\Desktop\Lab13\bin\Debug\Lab13.exe
+C:\Users\Administrator\Desktop\Lab13\bin\Debug\Lab13.pdb
+C:\Users\Administrator\Desktop\Lab13\obj\Debug\Lab13.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Lab13\obj\Debug\Lab13.Form1.resources
+C:\Users\Administrator\Desktop\Lab13\obj\Debug\Lab13.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Lab13\obj\Debug\Lab13.csproj.GenerateResource.Cache
+E:\Рабочий стол\Обучение\Labs\mod13\Lab13\bin\Debug\Lab13.exe.config
+E:\Рабочий стол\Обучение\Labs\mod13\Lab13\obj\Debug\Lab13.exe
+E:\Рабочий стол\Обучение\Labs\mod13\Lab13\obj\Debug\Lab13.pdb
+C:\Users\RFadeev\Desktop\docs\Labs\mod13\Lab13\bin\Debug\Lab13.exe.config
+C:\Users\RFadeev\Desktop\docs\Labs\mod13\Lab13\bin\Debug\Lab13.exe
+C:\Users\RFadeev\Desktop\docs\Labs\mod13\Lab13\bin\Debug\Lab13.pdb
+C:\Users\RFadeev\Desktop\docs\Labs\mod13\Lab13\obj\Debug\Lab13.csproj.AssemblyReference.cache
+C:\Users\RFadeev\Desktop\docs\Labs\mod13\Lab13\obj\Debug\Lab13.Form1.resources
+C:\Users\RFadeev\Desktop\docs\Labs\mod13\Lab13\obj\Debug\Lab13.Properties.Resources.resources
+C:\Users\RFadeev\Desktop\docs\Labs\mod13\Lab13\obj\Debug\Lab13.csproj.GenerateResource.cache
+C:\Users\RFadeev\Desktop\docs\Labs\mod13\Lab13\obj\Debug\Lab13.csproj.CoreCompileInputs.cache
+C:\Users\RFadeev\Desktop\docs\Labs\mod13\Lab13\obj\Debug\Lab13.exe
+C:\Users\RFadeev\Desktop\docs\Labs\mod13\Lab13\obj\Debug\Lab13.pdb
+C:\Users\RFadeev\Desktop\docs\Labs\mod13_done\Lab13\bin\Debug\Lab13.exe.config
+C:\Users\RFadeev\Desktop\docs\Labs\mod13_done\Lab13\bin\Debug\Lab13.exe
+C:\Users\RFadeev\Desktop\docs\Labs\mod13_done\Lab13\bin\Debug\Lab13.pdb
+C:\Users\RFadeev\Desktop\docs\Labs\mod13_done\Lab13\obj\Debug\Lab13.csproj.AssemblyReference.cache
+C:\Users\RFadeev\Desktop\docs\Labs\mod13_done\Lab13\obj\Debug\Lab13.Form1.resources
+C:\Users\RFadeev\Desktop\docs\Labs\mod13_done\Lab13\obj\Debug\Lab13.Properties.Resources.resources
+C:\Users\RFadeev\Desktop\docs\Labs\mod13_done\Lab13\obj\Debug\Lab13.csproj.GenerateResource.cache
+C:\Users\RFadeev\Desktop\docs\Labs\mod13_done\Lab13\obj\Debug\Lab13.csproj.CoreCompileInputs.cache
+C:\Users\RFadeev\Desktop\docs\Labs\mod13_done\Lab13\obj\Debug\Lab13.exe
+C:\Users\RFadeev\Desktop\docs\Labs\mod13_done\Lab13\obj\Debug\Lab13.pdb

@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\demo13\demo13\bin\Debug\demo13.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\demo13\demo13\bin\Debug\demo13.exe
+c:\users\administrator\documents\visual studio 2015\Projects\demo13\demo13\bin\Debug\demo13.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\demo13\demo13\obj\Debug\demo13.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\demo13\demo13\obj\Debug\demo13.exe
+c:\users\administrator\documents\visual studio 2015\Projects\demo13\demo13\obj\Debug\demo13.pdb
